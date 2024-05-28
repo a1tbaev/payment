@@ -5,5 +5,4 @@ import kg.example.task1.dto.response.AuthenticationResponse;
 
 public interface AuthenticationService {
     AuthenticationResponse authenticate(AuthRequest request);
-
 }
